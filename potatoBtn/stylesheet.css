@@ -1,0 +1,26 @@
+body {
+  font-family:"游ゴシック Medium",YuGothic,YuGothicM,"Hiragino Kaku Gothic ProN","Hiragino Kaku Gothic Pro",メイリオ,Meiryo,sans-serif;
+  background: url(img/bgpotato.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container {
+  background-color: #fbf0e6;
+  border-radius: 3%;
+  padding: 1rem;
+  width: 350px;
+  margin: 4rem auto;
+  text-align: center;
+}
+p {
+  margin: 0.2rem 0;
+  font-size: 0.8rem;
+}
+.message {
+  color: red;
+}
+img {
+  width: 250px;
+  margin: 2rem 0;
+  cursor: pointer;
+}
